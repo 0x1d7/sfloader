@@ -106,7 +106,7 @@ int main(int argc, char* argv[]){
 void help(){
     printf(
         "Usage:\n"
-        "	sflaoder [options] <arg>\n"
+        "	sfloader [options] <arg>\n"
         "\n"
         "Example:\n"
         "	sfloader -s <key>\n"
